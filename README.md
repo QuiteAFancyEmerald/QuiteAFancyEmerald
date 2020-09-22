@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hai! I'm an Emerald (a fancy one)
 
 <!--
-**QuiteAFancyEmerald/QuiteAFancyEmerald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hrmmm so just found out this exists. Why are you reading this source >:D
 
-Here are some ideas to get you started:
+<img align="left" src="https://github.com/QuiteAFancyEmerald/anime-shrug-gif.gif?raw=true">
+Well here are some things about me hehe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌺 I like watching anime... maybe too much of it
+- 🌱 I enjoy working with Java and C#. I also like to do many fun projects. 
+- 🎐 Also a game developer who mains in C#. 
+- 🎮 Gotta love Hollow Knight >:DD
+- 🦙 I wish I had a llama
+- 💬 Ask me about um well my Discord is Quite A Fancy Emerald#0001
+- ✨ Pronouns: wut
+- ⚡ Fun fact: I'm an Emerald. A fancy one.
+
+Overall though I mostly like to do fun projects in my free time. Web Development is an interest of mine and I love modding games.
