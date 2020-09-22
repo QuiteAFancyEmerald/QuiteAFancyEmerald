@@ -1,7 +1,7 @@
 ### Hai! I'm an Emerald (a fancy one)
 
 
-<img align="left" src="https://github.com/QuiteAFancyEmerald/anime-shrug-gif.gif?raw=true">
+<img align="left" src="https://github.com/QuiteAFancyEmerald/QuiteAFancyEmerald/anime-shrug-gif.gif?raw=true">
 Well here are some things about me hehe
 
 - 🌺 I like watching anime... maybe too much of it
