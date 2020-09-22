@@ -1,7 +1,10 @@
-### Hai! I'm an Emerald (a fancy one)
+# Quite A Fancy Emerald
 
 
-<img align="left" src="https://github.com/QuiteAFancyEmerald/QuiteAFancyEmerald/blob/master/anime-shrug-gif.gif?raw=true">
+<img align="top" src="https://github.com/QuiteAFancyEmerald/QuiteAFancyEmerald/blob/master/anime-shrug-gif.gif?raw=true"></img>
+
+## Hai! I'm an Emerald (a fancy one)
+
 Well here are some things about me hehe
 
 - 🌺 I like watching anime... maybe too much of it
