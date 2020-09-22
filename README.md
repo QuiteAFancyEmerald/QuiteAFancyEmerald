@@ -9,7 +9,7 @@ Well here are some things about me hehe
 - 🎐 Also a game developer who mains in C#. 
 - 🎮 Gotta love Hollow Knight >:DD
 - 🦙 I wish I had a llama
-- 💬 Ask me about um well my Discord is Quite A Fancy Emerald#0001
+- 💬 Ask me about um well my [Discord](//Quite A Fancy Emerald#0001)
 - ✨ Pronouns: wut
 - ⚡ Fun fact: I'm an Emerald. A fancy one.
 
