@@ -1,6 +1,3 @@
-# Quite A Fancy Emerald
-
-
 <img align="top" src="https://github.com/QuiteAFancyEmerald/QuiteAFancyEmerald/blob/master/anime-shrug-gif.gif?raw=true"></img>
 
 ## Hai! I'm an Emerald (a fancy one)
