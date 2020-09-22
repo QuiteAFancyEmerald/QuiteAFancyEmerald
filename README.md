@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/QuiteAFancyEmerald/QuiteAFancyEmerald/blob/master/anime-shrug-gif.gif?raw=true" width="300"></img>
+<img align="right" src="https://github.com/QuiteAFancyEmerald/QuiteAFancyEmerald/blob/master/anime-shrug-gif.gif?raw=true" width="300"></img>
 
 ## Hai! I'm an Emerald (a fancy one)
 
