@@ -10,7 +10,6 @@ Well here are some things about me hehe
 - 🎮 Gotta love Hollow Knight >:DD
 - 🦙 I wish I had a llama
 - 💬 Quite A Fancy Emerald#0001 is my discord if you feel like talking.
-- ✨ Pronouns: wut
 - ⚡ Fun fact: I'm an Emerald. A fancy one.
 
 Overall though I mostly like to do fun projects in my free time. Web Development is an interest of mine and I love modding games.
