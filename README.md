@@ -1,7 +1,5 @@
 ### Hai! I'm an Emerald (a fancy one)
 
-<!--
-Hrmmm so just found out this exists. Why are you reading this source >:D
 
 <img align="left" src="https://github.com/QuiteAFancyEmerald/anime-shrug-gif.gif?raw=true">
 Well here are some things about me hehe
