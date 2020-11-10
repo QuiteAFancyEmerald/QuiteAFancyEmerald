@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/QuiteAFancyEmerald/QuiteAFancyEmerald/blob/master/yuihawhack.gif?raw=true" width="300"></img>
+<img align="right" src="https://github.com/QuiteAFancyEmerald/QuiteAFancyEmerald/blob/master/yuihawhack.gif?raw=true" width="600"></img>
 
 # Quite A Fancy Emerald
 ### Hai! I'm an Emerald. (a fancy one pew pew)
