@@ -16,6 +16,6 @@ Well here are some things about me:
 
 Overall though I mostly like to do fun projects in my free time. Web Development is an interest of mine and I love modding games.
 
-On a serious note though I have worked on various projects including Holy Unblocker (my most recent one) as well as a mode called More Biomes Plus with more to come.
+On a serious note though I have worked on various projects including Holy Unblocker (my most recent one) as well as a mod called More Biomes Plus with more to come.
 
 Fun Fact: I'm an Emerald. A fancy one.
