@@ -12,7 +12,7 @@ Well here are some things about me:
 - Also a game developer who mains in C#. 🎐
 - Gotta love Hollow Knight >:DD 🎮
 - I wish I had a llama. 🦙
-- Quite A Fancy Emerald#0001 is my discord if you feel like talking. 💬
+- Not A Fancy Emerald#1404 is my discord if you feel like talking. 💬
 
 Overall though I mostly like to do fun projects in my free time. Web Development is an interest of mine and I love modding games.
 
