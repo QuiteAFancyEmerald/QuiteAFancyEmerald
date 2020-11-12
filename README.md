@@ -5,7 +5,7 @@ And yes I go by Quite A Fancy Emerald or Em if you would like.
 
 Well here are some things about me:🌺
 
-- I like watching anime... maybe too much of it. Don't ask what my favorite is! 
+- I like watching anime... maybe too much of it.
 - I enjoy working with Java and C#. I also like to do many fun projects. 
 - Also a game developer who mains in C#. 
 - Gotta love Hollow Knight 🎮
