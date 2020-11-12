@@ -16,4 +16,4 @@ Overall though I mostly like to do fun projects in my free time. Web Development
 
 On a serious note though I have worked on various projects including Holy Unblocker (my most recent one) as well as a mod called More Biomes Plus with more to come.
 
-Fun Fact: I'm an Emerald. A fancy one.
+Fun Fact: I'm an Emerald. A fancy one. :)
