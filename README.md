@@ -1,5 +1,3 @@
-<img align="right" src="https://github.com/QuiteAFancyEmerald/QuiteAFancyEmerald/blob/master/yuihawhack.gif?raw=true" width="250"></img>
-
 # Quite A Fancy Emerald
 And yes I go by Quite A Fancy Emerald or Em if you would like.
 
@@ -14,5 +12,3 @@ And yes I go by Quite A Fancy Emerald or Em if you would like.
 On a serious note though I have worked on various projects including Holy Unblocker.
 
 Overall though I mostly like to do fun projects in my free time. 
-
-**Fun Fact: I'm an Emerald. A fancy one. :)**
