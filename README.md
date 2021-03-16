@@ -1,9 +1,9 @@
-<img align="right" src="https://github.com/QuiteAFancyEmerald/QuiteAFancyEmerald/blob/master/yuihawhack.gif?raw=true" width="350"></img>
+<img align="right" src="https://github.com/QuiteAFancyEmerald/QuiteAFancyEmerald/blob/master/yuihawhack.gif?raw=true" width="250"></img>
 
 # Quite A Fancy Emerald
 And yes I go by Quite A Fancy Emerald or Em if you would like.
 
-**Well here are some things about me:** 🌺
+**Well here are some things about me:**
 
 - I like watching anime... maybe too much of it.
 - Probably also spend too much time working on Holy Unblocker.
@@ -11,8 +11,8 @@ And yes I go by Quite A Fancy Emerald or Em if you would like.
 
 **Quite A Fancy Emerald#0001** is my discord if you feel like talking.
 
+On a serious note though I have worked on various projects including Holy Unblocker.
+
 Overall though I mostly like to do fun projects in my free time. 
-Web Development is an interest of mine and I love modding games.
-On a serious note though I have worked on various projects including Holy Unblocker (my most recent one) as well as a mod called More Biomes Plus with more to come.
 
 **Fun Fact: I'm an Emerald. A fancy one. :)**
