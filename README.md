@@ -1,6 +1,4 @@
-# Quite A Fancy Emerald
-
-<img src="https://github.com/QuiteAFancyEmerald/QuiteAFancyEmerald/blob/ade488192e86c3b04244e13a6493d0d27e0c28e9/wat.png?raw=true" width="250" align="right"><img>
+# Quite A Fancy Emerald <img src="https://github.com/QuiteAFancyEmerald/QuiteAFancyEmerald/blob/ade488192e86c3b04244e13a6493d0d27e0c28e9/wat.png?raw=true" width="250" align="right"><img>
 
 I mostly go by Quite A Fancy Emerald or Em if you would like :D
 
