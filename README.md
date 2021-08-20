@@ -13,3 +13,6 @@ I mostly go by Quite A Fancy Emerald or Em if you would like :D
 On a serious note though I have worked on various projects including Holy Unblocker.
 
 Overall though I like to do fun projects in my free time. 
+
+## Main Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=titaniumnetwork-dev&repo=Holy-Unblocker&theme=midnight-purple)](https://github.com/titaniumnetwork-dev/Holy-Unblocker)
