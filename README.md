@@ -15,4 +15,4 @@ On a serious note though I have worked on various projects including Holy Unbloc
 Overall though I like to do fun projects in my free time. 
 
 ## Main Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=titaniumnetwork-dev&repo=Holy-Unblocker&theme=midnight-purple)](https://github.com/titaniumnetwork-dev/Holy-Unblocker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=titaniumnetwork-dev&repo=Holy-Unblocker&theme=synthwave)](https://github.com/titaniumnetwork-dev/Holy-Unblocker)
