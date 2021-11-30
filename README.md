@@ -7,13 +7,13 @@ Quite A Fancy Emerald or Em if you would like also :D
 
 - I like watching anime... maybe too much of it.
 - Probably also spend too much time working on Holy Unblocker.
-- Gotta love Hollow Knight 🎮
+- Gotta love Hollow Knight and Celeste 🎮
 
 **Quite A Fancy Emerald#0001** is my discord if you feel like talking.
 
 On a serious note though I have worked on various projects including Holy Unblocker.
 
-Overall though I like to do fun projects in my free time. 
+Overall though I like to do fun projects in my free time!
 
 ## Main Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=titaniumnetwork-dev&repo=Holy-Unblocker&theme=synthwave)](https://github.com/titaniumnetwork-dev/Holy-Unblocker)
