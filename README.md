@@ -6,7 +6,7 @@ Quite A Fancy Emerald or Em if you would like also :D
 **Well here are some things about me:**
 
 - I like watching anime... maybe too much of it.
-- Probably also spend too much time working on Holy Unblocker.
+- Probably also spent too much time working on Holy Unblocker.
 - Gotta love Hollow Knight and Celeste 🎮
 
 **Quite A Fancy Emerald#0001** is my discord if you feel like talking.
