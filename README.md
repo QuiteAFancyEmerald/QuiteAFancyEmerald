@@ -21,6 +21,3 @@ Overall though I like to do fun projects in my free time!
 - <a href="https://discord.gg/wRakw3k">Discord</a>
 - <a href="https://hutao.dev">Website</a>
 
-## Main Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=titaniumnetwork-dev&repo=Holy-Unblocker&theme=synthwave)](https://github.com/titaniumnetwork-dev/Holy-Unblocker)
-
