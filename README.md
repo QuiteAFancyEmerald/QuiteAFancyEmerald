@@ -19,5 +19,6 @@ Overall though I like to do fun projects in my free time!
 ### Socials
 - <a href="https://www.youtube.com/channel/UC9OUOGSUWD5I7tnLiUkgOMg">YouTube</a>
 - <a href="https://discord.gg/wRakw3k">Discord</a>
+- - <a href="https://www.artstation.com/quiteafancyemerald">Artstation</a>
 - <a href="https://hutao.dev">Website</a>
 
