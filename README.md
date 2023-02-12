@@ -20,6 +20,6 @@ Overall though I like to do fun projects in my free time!
 - <a href="https://hutao.dev">Website</a>
 
 $$
-\textcolor{pink}{\fbox{\textbf{\textsf{{Who Tao?}}}}}
+\textcolor{pink}{\fbox{\textbf{\textsf{\Huge{who tao?}}}}}
 $$
 
