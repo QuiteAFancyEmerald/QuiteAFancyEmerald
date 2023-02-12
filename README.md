@@ -1,7 +1,4 @@
-# Quite A Fancy Emerald 
-
-I mostly go by Crystal now! 
-Quite A Fancy Emerald or Em if you would like also :D
+# Quite A Fancy Emerald
 
 **Well here are some things about me:**
 
@@ -19,6 +16,10 @@ Overall though I like to do fun projects in my free time!
 ### Socials
 - <a href="https://www.youtube.com/channel/UC9OUOGSUWD5I7tnLiUkgOMg">YouTube</a>
 - <a href="https://discord.gg/wRakw3k">Discord</a>
-- - <a href="https://www.artstation.com/quiteafancyemerald">Artstation</a>
+- <a href="https://www.artstation.com/quiteafancyemerald">Artstation</a>
 - <a href="https://hutao.dev">Website</a>
+
+$$
+\textcolor{pink}{\fbox{\textbf{\textsf{{Who Tao?}}}}}
+$$
 
