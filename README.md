@@ -18,8 +18,3 @@ Overall though I like to do fun projects in my free time!
 - <a href="https://discord.gg/wRakw3k">Discord</a>
 - <a href="https://www.artstation.com/quiteafancyemerald">Artstation</a>
 - <a href="https://hutao.dev">Website</a>
-
-$$
-\textcolor{pink}{\fbox{\textbf{\textsf{\Huge{who tao?}}}}}
-$$
-
