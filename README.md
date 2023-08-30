@@ -3,13 +3,11 @@
 **Well here are some things about me:**
 
 - Tech nerd and the definition of chaos
-- An aspiring Full-Stack Developer or Software Engineer
-- Probably spent too much time working on Holy Unblocker.
+- An aspiring Full-Stack Developer or Software Engineer (I do more film now and content creation but this is still a future passion of mine) 
+- Probably spent too much time working on Holy Unblocker. I no longer update it as of 2022 but it was a massive passion project of mine. Censorship and digitial privacy was always a topic that bugged me and although I have dropped it the source will remain public for another sick project to take its place. (NOTE: I am not affiliated with modern Holy Unblocker in any way currently.)
 - Gotta love Hollow Knight, Terraria and Celeste 🎮
 
 **Quite A Fancy Emerald#0001** is my discord if you feel like talking.
-
-On a serious note though I have worked on various projects including Holy Unblocker.
 
 Overall though I like to do fun projects in my free time!
 
