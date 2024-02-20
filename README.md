@@ -7,7 +7,7 @@
 
 **Quite A Fancy Emerald#0001** is my discord if you feel like talking.
 
-Overall though I like to do fun projects in my free time!
+Overall though I like to do fun projects in my free time
 
 ### Socials
 - <a href="https://www.youtube.com/channel/UC9OUOGSUWD5I7tnLiUkgOMg">YouTube</a>
