@@ -2,7 +2,7 @@
 
 **Well here are some things about me:**
 
-- Probably spent too much time working on Holy Unblocker. I no longer update it as of 2022 but it was a massive passion project of mine. Censorship and digitial privacy was always a topic that bugged me and although I have dropped it the source will remain public for another sick project to take its place. (NOTE: I am not affiliated with modern Holy Unblocker in any way currently.)
+- Probably spent too much time working on Holy Unblocker. I no longer update it as of 2022 but it was a massive passion project of mine. Censorship and digitial privacy was always a topic that bugged me and although I have dropped it the source will remain public for another sick project to take its place. (NOTE: I am not affiliated with modern Holy Unblocker in any way currently or its owners.)
 - Gotta love Hollow Knight, Terraria and Celeste 🎮
 
 **Quite A Fancy Emerald#0001** is my discord if you feel like talking.
