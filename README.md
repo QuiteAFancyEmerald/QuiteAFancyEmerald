@@ -4,7 +4,7 @@ Here are some things about me:
 
 - ⚡️ I've worked on <a href="https://holyunblocker.org">Holy Unblocker LTS</a> for the past four years now (2020-2024) as a passion project
 - 🗿 I'm an advocate for internet privacy and freedom
-- 👍 I've contributed to various projects related to web proxy technologies and FOSS organizations such as <a href="https://github.com/titaniumnetwork-dev">Titanium Network</a>
+- 👍 I've contributed to various projects related to web proxy technologies and FOSS organizations such as <a href="https://github.com/titaniumnetwork-dev">Titanium Network</a> and <a href="https://github.com/MercuryWorkshop">Mercury Workshop</a>
 - 📹 I'm all over the place online when it comes to projects such as having 19K subscribers on <a href="https://www.youtube.com/channel/UC9OUOGSUWD5I7tnLiUkgOMg">YouTube</a>
 - 🎮 Gotta love Elden Ring, Hollow Knight, and Terraria
 
