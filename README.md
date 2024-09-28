@@ -18,7 +18,7 @@ Here are some things about me:
 Overall though I like to do fun projects in my free time. Check out my portfolio site!
 
 ### Socials
-- <a href="https://hutao.dev">Portfolio Website</a>
+- <a href="https://quiteafancyemerald.com">Portfolio Website</a>
 - <a href="https://www.youtube.com/channel/UC9OUOGSUWD5I7tnLiUkgOMg">YouTube</a>
 - <a href="https://discord.gg/wRakw3k">Discord</a>
 - <a href="https://www.artstation.com/quiteafancyemerald">Artstation</a>
