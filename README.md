@@ -6,7 +6,7 @@ Here are some things about me:
 - 🗿 I'm an advocate for internet privacy and freedom
 - 🔐 Some of my major projects involve Windows modding and optimization which you can check out at my <a href="https://www.deviantart.com/quiteafancyemerald">Deviant Art</a> or GitHub
 - 👍 I've contributed to various projects related to web proxy technologies and FOSS organizations such as <a href="https://github.com/titaniumnetwork-dev">Titanium Network</a> and <a href="https://github.com/MercuryWorkshop">Mercury Workshop</a>
-- ⌨️ Formerly (2020-2023) I was an administrator for the <a href="https://github.com/titaniumnetwork-dev">Titanium Network</a> project/organization from its early days when it had just 150 discord members, and helped it grow to over 25,000 discord members and millions of users on its web services. The organization now maintains over 40 popular repositories and a wide range of services while sitting at 30K discord members.
+- ⌨️ Formerly (2019-2023) I was an member/administrator for the <a href="https://github.com/titaniumnetwork-dev">Titanium Network</a> project/organization from its early days when it had just 150 discord members, and helped it grow to over 25,000 discord members and millions of users on its web services. The organization now maintains over 40 popular repositories and a wide range of services while sitting at 30K discord members.
 - 📹 I'm all over the place online when it comes to projects such as having 19K subscribers on <a href="https://www.youtube.com/channel/UC9OUOGSUWD5I7tnLiUkgOMg">YouTube</a>
 - 🎮 Gotta love Elden Ring, Hollow Knight, and Terraria
 - 💻 Future Software Engineer 
