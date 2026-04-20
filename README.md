@@ -2,7 +2,7 @@
 
 Here are some things about me:
 
-- ⚡️ I've worked on <a href="https://holyunblocker.org">Holy Unblocker LTS</a> for the past five years now (2020-2025) as a passion project
+- ⚡️ I've worked on <a href="https://invisiproxy.com">InvisiProxy</a> (formerly Holy Unblocker LTS) for the past five years now (2020-2026) as a passion project
 - 🗿 I'm an advocate for internet privacy and freedom
 - 🔐 Some of my major projects involve Windows modding and optimization which you can check out at my <a href="https://www.deviantart.com/quiteafancyemerald">Deviant Art</a> or GitHub
 - 👍 I've contributed to various projects related to web proxy technologies and FOSS organizations within <a href="https://github.com/titaniumnetwork-dev">Titanium Network</a> and <a href="https://github.com/MercuryWorkshop">Mercury Workshop</a>
